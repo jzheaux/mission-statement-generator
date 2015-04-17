@@ -12,7 +12,7 @@ as well.
 
 To run the first time, do the following:
 
-javac SelfContainedMissionStatement.java
+> javac SelfContainedMissionStatement.java
 
 Thereafter, there are a number of different options:
 
@@ -24,7 +24,7 @@ Our mission is to evolve.
 * Create New Mission Statement Based Off of Self-Copying:
 
 > java SelfContainedMissionStatement Adam
-Our mission is to assimilate.
+> Our mission is to assimilate.
 
 The following means "Using only SelfContainedMissionStatement, create 
 Adam.java: A new mission statement that is capable of generating other
@@ -37,16 +37,16 @@ takes time. :)
 Now we can run
 
 > java Adam
-Our mission is to assimilate.
+> Our mission is to assimilate.
 
 And
 
 > java SelfContainedMissionStatement Eve
-We will commit to evolve.
+> We will commit to evolve.
 
 * Create New Mission Statement By Splicing DNA From Two Mission Statements
 
 > java Adam Eve Seth
-It is our job to efficiently evolve.
+> It is our job to efficiently evolve.
 
 Enjoy!

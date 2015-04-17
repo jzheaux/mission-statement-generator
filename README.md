@@ -19,11 +19,13 @@ Thereafter, there are a number of different options:
 * Print Out Mission Statement:
 
 > java SelfContainedMissionStatement
-Our mission is to evolve.
+
+> Our mission is to evolve.
 
 * Create New Mission Statement Based Off of Self-Copying:
 
 > java SelfContainedMissionStatement Adam
+
 > Our mission is to assimilate.
 
 The following means "Using only SelfContainedMissionStatement, create 
@@ -37,16 +39,19 @@ takes time. :)
 Now we can run
 
 > java Adam
+
 > Our mission is to assimilate.
 
 And
 
 > java SelfContainedMissionStatement Eve
+
 > We will commit to evolve.
 
 * Create New Mission Statement By Splicing DNA From Two Mission Statements
 
 > java Adam Eve Seth
+
 > It is our job to efficiently evolve.
 
 Enjoy!
